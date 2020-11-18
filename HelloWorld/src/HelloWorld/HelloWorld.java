@@ -6,6 +6,10 @@ public class HelloWorld
 	{
 		System.out.println("Hello World");
 		System.out.println("Dohyeong, Kim");
+<<<<<<< HEAD
 		System.out.println("20173186");
+=======
+		System.out.println("Computer Software Engineering");
+>>>>>>> refs/heads/dhkim
 	}
 }
