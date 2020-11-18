@@ -1,6 +1,6 @@
 package HelloWorld;
 
-public class PushPrint 
+public class PushPrint1 
 {
 	public static void main(String[] args) 
 	{
